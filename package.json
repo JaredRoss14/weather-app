@@ -1,0 +1,14 @@
+{
+  "name": "weather-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weatherAdmin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikki Aaron",
+  "license": "ISC",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
